@@ -1,0 +1,8 @@
+Origin: MadOwnz Cydia Repo
+Label: MadOwnz Repo
+Suite: stable
+Version: 1.0
+Codename: madownzrepo
+Architectures: iphoneos-arm
+Components: main
+Description: MadOwnz Cydia Repo for IOS 11 Tweaks

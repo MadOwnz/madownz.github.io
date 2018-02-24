@@ -1,0 +1,14 @@
+Package: com.golddavid.colorbanners2
+Version: 1.1.0~beta1
+Architecture: iphoneos-arm
+Maintainer: MadOwnz <madownzrepo@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
+Filename: ColorBanners2 IOS11.deb
+Size: 1028
+MD5sum: 17c7b358be9f255578f99cef811e282e
+SHA1: 1e22074c5bb72b25e02123500adb00ba88565e91
+SHA256: 988e587e712b9023d8825bfa324a4940053ba9bdf2d7ad209481a481ee3c48d0
+Section: Tweaks
+Description: Color your notifications
+Author: David Goldman <help@golddavid.com>
+Name: ColorBanners 2 (iOS 11)
